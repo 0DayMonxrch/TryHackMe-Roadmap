@@ -62,11 +62,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [ ] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [X] [TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [ ] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [X] [TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
+- [X] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
 - [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
