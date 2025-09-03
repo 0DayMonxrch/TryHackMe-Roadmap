@@ -68,7 +68,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [X] [TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
+- [X] [TryHackMe | CC: Pen Testing](https://tryhackme.com/room/ccpentesting)
 
 - [X] [TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
@@ -78,13 +78,13 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Learn Linux](https://tryhackme.com/room/zthlinux)
 
-- [ ] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
+- [X] [TryHackMe | Linux Modules](https://tryhackme.com/room/linuxmodules)
 
 - [X] [TryHackMe | Linux Fundamentals Part 1](https://tryhackme.com/room/linuxfundamentalspart1)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
+- [X] [TryHackMe | Linux Fundamentals Part 2](https://tryhackme.com/room/linuxfundamentalspart2)
 
-- [ ] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
+- [X] [TryHackMe | Linux Fundamentals Part 3](https://tryhackme.com/room/linuxfundamentalspart3)
 
 ## Windows Fundamentals
 
@@ -122,11 +122,11 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [X] [TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
+- [X] [TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [X] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
 - [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
