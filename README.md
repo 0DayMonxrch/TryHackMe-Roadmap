@@ -128,7 +128,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [X] [TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
 
-- [ ] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [X] [TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
@@ -146,7 +146,7 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
+- [X] [TryHackMe | Python Basics](https://tryhackme.com/room/pythonbasics)
 
 - [ ] [TryHackMe | Python Playground](https://tryhackme.com/room/pythonplayground)
 
@@ -184,9 +184,9 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 ---
 
-- [ ] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
+- [X] [TryHackMe | Metasploit: Introduction](https://tryhackme.com/room/metasploitintro)
 
-- [ ] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
+- [X] [TryHackMe | Metasploit](https://tryhackme.com/room/rpmetasploit)
 
 - [ ] [TryHackMe | tmux](https://tryhackme.com/room/rptmux)
 
@@ -206,17 +206,17 @@ All the rooms mentioned here are absolute free. ENJOY!!
 
 - [ ] [TryHackMe | Nessus](https://tryhackme.com/room/rpnessusredux)
 
-- [ ] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
+- [X] [TryHackMe | Nmap Live Host Discovery](https://tryhackme.com/room/nmap01)
 
-- [ ] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
+- [X] [TryHackMe | Nmap](https://tryhackme.com/room/furthernmap)
 
 - [ ] [TryHackMe | TShark](https://tryhackme.com/room/tshark)
 
 - [ ] [TryHackMe | ffuf](https://tryhackme.com/room/ffuf)
 
-- [ ] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
+- [X] [TryHackMe | Burp Suite: The Basics](https://tryhackme.com/room/burpsuitebasics)
 
-- [ ] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
+- [X] [TryHackMe | Burp Suite: Repeater](https://tryhackme.com/room/burpsuiterepeater)
 
 ## Crypto & Hashes
 
